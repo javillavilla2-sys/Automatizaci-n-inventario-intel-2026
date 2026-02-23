@@ -289,7 +289,7 @@ st.markdown(f"""
         <div class="hbrand-icon">🖥</div>
         <div>
             <div class="hbrand-sup">Automation Platform</div>
-            <div class="hbrand-name">GESTIÓN REPORTE A FABRICANTES 2026 2026</div>
+            <div class="hbrand-name">GESTIÓN REPORTE A FABRICANTES 2026 </div>
         </div>
     </div>
     <div class="hright">
